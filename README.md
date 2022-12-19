@@ -9,7 +9,7 @@
 | Admin | Rizki |
 | PIM | Fathima |
 | Leave | Asmi |
-| Time | Fathima Azzahra |
+| Time | Hesti |
 | Recruitment | Rizki |
 | My Info | Hesti |
 | Performance | Pangestu |
