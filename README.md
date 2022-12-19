@@ -9,9 +9,9 @@
 | Admin | Rizki |
 | PIM | Fathima |
 | Leave | Asmi |
-| Time | Hesti |
+| Time | Fathima Azzahra |
 | Recruitment | Rizki |
-| My Info | Fathima |
+| My Info | Hesti |
 | Performance | Pangestu |
 
 [Dokumen Test Case](https://docs.google.com/spreadsheets/d/1ZdKna5D_-3GaunGAw28HMnI1xKgBiGA4Wy9UooyxVbo/edit?usp=sharing)
